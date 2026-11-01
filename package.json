@@ -1,0 +1,14 @@
+
+{
+  "name": "vorax-check-ban",
+  "version": "1.0.0",
+  "description": "VORAX WhatsApp Number Checker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "libphonenumber-js": "^1.11.20"
+  }
+}
